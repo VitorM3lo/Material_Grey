@@ -3,7 +3,7 @@
     "manifest_version": 2,
     "name": "material_grey",
     "version": "0.1",
-    "homepage_url": "https://www.google.com",
+    "homepage_url": "https://github.com/VitorM3lo/Material_Grey",
     "theme": {
         "colors": {
             "frame": "#303030",
