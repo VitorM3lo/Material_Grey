@@ -1,0 +1,43 @@
+{
+    "description": "Super grey and minimalist theme",
+    "manifest_version": 2,
+    "name": "material_grey",
+    "version": "0.1",
+    "homepage_url": "https://www.google.com",
+    "theme": {
+        "colors": {
+            "frame": "#303030",
+            "button_background_active": "#656565",
+            "button_background_hover": "#474747",
+            "tab_line": "#464646",
+            "tab_text": "#E3E3E3",
+            "tab_loading": "#454545",
+            "tab_selected": "#2A2A2A",
+            "tab_background_text": "#969696",
+            "icons": "#E3E3E3",
+            "icons_attention": "#305D75",
+            "ntp_background": "#303030",
+            "ntp_text": "#E3E3E3",
+            "popup": "#303030",
+            "popup_text": "#E3E3E3",
+            "popup_border": "#282828",
+            "popup_highlight": "#656565",
+            "sidebar": "#303030",
+            "sidebar_highlight": "#474747",
+            "sidebar_text": "#E3E3E3",
+            "sidebar_border": "#303030",
+            "toolbar": "#282828",
+            "toolbar_bottom_separator": "#282828",
+            "toolbar_field": "#303030",
+            "toolbar_field_border": "#464646",
+            "toolbar_field_border_focus": "#464646",
+            "toolbar_field_focus": "#464646",
+            "toolbar_field_text": "#E3E3E3",
+            "toolbar_field_text_focus": "#E3E3E3",
+            "toolbar_text": "#E3E3E3",
+            "toolbar_top_separator": "#282828",
+            "toolbar_vertical_separator": "#464646",
+            "toolbar_field_highlight": "#305D75"
+        }
+    }
+}
